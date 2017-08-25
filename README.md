@@ -1,3 +1,3 @@
 # caik.us
-Caik.us main page html http://caik.us ; https://caikus.000webhostapp.com/
+Caik.us main page html http://caik.us
 Created by mys7icfox
