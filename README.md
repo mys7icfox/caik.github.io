@@ -1,2 +1,2 @@
 # caik.us
-Caik.us public files
+Caik.us main page html
