@@ -1,3 +1,3 @@
 # caik.us
 Caik.us main page html  http://caik.us
-Created by mys7icfox
+Created and maintained by mys7icfox
